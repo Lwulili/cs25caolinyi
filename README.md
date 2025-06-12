@@ -1,1 +1,6 @@
-# cs25caolinyi
+GitHub Pages Exercise
+===========
+Involves
+* git
+* GitHub
+* SSH
